@@ -1,9 +1,9 @@
-# Claudia-Interactive 要件定義書
+# Cloudy 要件定義書
 
 ## 1. プロジェクト概要
 
 ### 1.1 プロジェクト名
-**Claudia-Interactive** - 統合ターミナル機能を持つClaude Code GUI
+**Cloudy** - 統合ターミナル機能を持つClaude Code GUI
 
 ### 1.2 プロジェクトの目的
 既存のClaudiaプロジェクトを参考実装として活用し、xterm.js + node-ptyによる完全なターミナルエミュレーション機能を統合したClaude Code GUIアプリケーションを開発する。Claude Code CLIとのリアルタイム双方向通信により、従来のターミナル体験とGUIの利便性を融合した統一UXを提供する。

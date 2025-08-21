@@ -1,4 +1,4 @@
-# Claudia Interactive - Claude Code GUI
+# Cloudy - Claude Code GUI
 
 ## プロジェクト概要
 
@@ -96,7 +96,7 @@ Claudiaの制限事項を解決し、ターミナルエミュレーターを内�
 
 ### Claudiaとの差別化
 - **Claudia**: 管理・分析中心のGUI
-- **Claudia Interactive**: リアルタイム操作・完全統合GUI
+- **Cloudy**: リアルタイム操作・完全統合GUI
 
 ### Electronアプリ構造
 ```

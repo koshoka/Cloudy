@@ -1,4 +1,4 @@
-# Claudia Interactive - Claude Code CLI GUIラッパー仕様書
+# Cloudy - Claude Code CLI GUIラッパー仕様書
 
 ## プロジェクト概要
 

@@ -1,10 +1,10 @@
-# Claudia Interactive
+# Cloudy
 
 > Claude Code CLIの完全なインタラクティブGUIラッパーアプリケーション
 
 ## 概要
 
-**Claudia Interactive**は、[Claudia](https://github.com/getAsterisk/claudia)の制限事項を解決し、Claude Code CLIのすべての機能を完全にサポートするデスクトップアプリケーションです。
+**Cloudy**は、[Claudia](https://github.com/getAsterisk/claudia)の制限事項を解決し、Claude Code CLIのすべての機能を完全にサポートするデスクトップアプリケーションです。
 
 ### 背景
 
@@ -13,7 +13,7 @@
 - リアルタイムでのClaude Code CLIとの対話ができない  
 - ターミナル環境の完全な再現ができない
 
-Claudia Interactiveはこれらの問題を解決し、**GUI+ターミナル統合**による理想的なClaude Code体験を提供します。
+Cloudyはこれらの問題を解決し、**GUI+ターミナル統合**による理想的なClaude Code体験を提供します。
 
 ## 主要機能
 
@@ -58,7 +58,7 @@ Claudia Interactiveはこれらの問題を解決し、**GUI+ターミナル統�
 
 ### Claudiaとの差別化
 
-| 特徴 | Claudia | Claudia Interactive |
+| 特徴 | Claudia | Cloudy |
 |------|---------|-------------------|
 | 主な用途 | 管理・分析 | リアルタイム操作 |
 | ターミナル | なし | フル統合 |
@@ -68,7 +68,7 @@ Claudia Interactiveはこれらの問題を解決し、**GUI+ターミナル統�
 ### アプリ構造
 
 ```
-claudia-interactive/
+cloudy/
 ├── .kiro/                    # Kiro仕様駆動開発
 │   ├── steering/             # プロジェクト指針
 │   └── specs/                # 仕様書

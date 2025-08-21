@@ -1,0 +1,10 @@
+project_name: cloudy
+language: typescript
+description: "Claude Code CLI完全統合GUI - 参考実装型新規開発"
+main_directories:
+  - src
+  - tests
+  - docs
+framework: electron
+ui_framework: react
+build_tool: vite

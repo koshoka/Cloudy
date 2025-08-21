@@ -1,10 +1,10 @@
-# Claudia Interactive 仕様初期化計画
+# Cloudy 仕様初期化計画
 
 ## 実行日
 2025年8月21日
 
 ## タスク概要
-Claude Code CLIの完全なインタラクティブGUIラッパー「Claudia Interactive」の仕様初期化を実行
+Claude Code CLIの完全なインタラクティブGUIラッパー「Cloudy」の仕様初期化を実行
 **参考実装型新規開発アプローチ**による独自実装を決定
 
 ## 完了した作業
@@ -19,7 +19,7 @@ Claude Code CLIの完全なインタラクティブGUIラッパー「Claudia Int
 - `plan/` - 計画ドキュメント格納
 
 ### 3. 仕様初期化ドキュメント作成 ✅
-- `/Users/kk/windsurf-ai/claudia-interactive/.kiro/specs/claudia-interactive.md`
+- `/Users/kk/windsurf-ai/cloudy/.kiro/specs/cloudy.md`
 - 包括的な仕様書を作成
 - 技術スタック、主要機能、アーキテクチャ設計を定義
 
@@ -60,4 +60,4 @@ Claude Code CLIの完全なインタラクティブGUIラッパー「Claudia Int
 ✅ **参考実装型新規開発アプローチでの要件定義完了**  
 ✅ **GitHubリポジトリ連携完了** (https://github.com/koshoka/Cloudy)
 
-**次回**: `/kiro:spec-design claudia-interactive`コマンドで技術設計フェーズに進行予定。
+**次回**: `/kiro:spec-design cloudy`コマンドで技術設計フェーズに進行予定。
